@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * Esta clase genera 100 casos de prueba para el método de SortColors
  * @author Juan Esteban Serrano Rodelo - 1152033
- * @author Acer
+ * @author Juan Esteban Hernández Álvarez - 1152122
  */
 public class Casos {
 
